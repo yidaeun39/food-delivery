@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
-![image](https://user-images.githubusercontent.com/35618409/120440345-6889dc80-c3be-11eb-8b71-aa2b17d7f32f.png)
 
 # 예제 - 음식배달 (리포트)
 
