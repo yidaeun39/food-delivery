@@ -1,10 +1,14 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
-# KTDS 1차 Final Assessment 수행 리포트
+# KTDS 2차 Final Assessment 수행 리포트
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
 이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
 - 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
+
+
+![image](https://github.com/acmexii/food-delivery/assets/35618409/bc61e3b4-3fda-4ccd-94f6-e5d19859909e)
+
 
 # Table of contents
 
