@@ -7,9 +7,6 @@
 - 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
 
 
-![image](https://github.com/acmexii/food-delivery/assets/35618409/bc61e3b4-3fda-4ccd-94f6-e5d19859909e)
-
-
 # Table of contents
 
 - [예제 - 음식배달](#---)
