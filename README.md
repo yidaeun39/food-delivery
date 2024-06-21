@@ -1,3 +1,6 @@
+![image](https://github.com/yidaeun39/food-delivery/assets/47437659/a627ed83-82c6-4db4-8df8-3b61268d6d90)
+
+
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 # KTDS 2차 Final Assessment 수행 리포트
